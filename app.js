@@ -1,4 +1,5 @@
-let url = "http://universities.hipolabs.com/search?name=";
+let url = "[![Netlify Status](https://api.netlify.com/api/v1/badges/f91a37b8-9463-411c-8db3-9c1d5d3e46a2/deploy-status)](https://app.netlify.com/sites/getuniversity-anup/deploys)";
+
 let btn = document.querySelector('button');
 let p = document.querySelector('.da');
 let total = 0;
